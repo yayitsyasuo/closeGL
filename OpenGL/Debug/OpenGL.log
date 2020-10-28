@@ -1,0 +1,4 @@
+﻿  Window.cpp
+c:\users\martin\source\repos\opengl\opengl\src\errorcheck.h(12): warning C4018: '<': signed/unsigned mismatch
+c:\users\martin\source\repos\opengl\opengl\src\errorcheck.h(28): warning C4305: 'return': truncation from 'int' to 'bool'
+  OpenGL.vcxproj -> C:\Users\Martin\source\repos\OpenGL\Debug\OpenGL.exe
